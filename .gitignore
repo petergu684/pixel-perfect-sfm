@@ -2,8 +2,7 @@
 *.pdf
 
 build/
-pixsfm/features/models/checkpoints/
-*.pth
+
 .ipynb_checkpoints
 
 lsf*
